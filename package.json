@@ -1,0 +1,24 @@
+{
+  "name": "lexachatbot-workspace",
+  "version": "1.0.0",
+  "description": "LexaChatbot — Full-Stack AI Technical Interview Preparation Chatbot",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "build:frontend": "cd frontend && npm run build",
+    "start:backend": "cd backend && npm start",
+    "test:backend": "node backend/tests/api.test.js"
+  },
+  "keywords": [
+    "lexachatbot",
+    "interview-prep",
+    "mern",
+    "react",
+    "node",
+    "mongodb",
+    "gemini"
+  ],
+  "author": "LexaChatbot Team",
+  "license": "MIT"
+}
