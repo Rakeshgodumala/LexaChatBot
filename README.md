@@ -2,7 +2,7 @@
 > **"Your Smart Companion for Technical Interview Preparation"**  
 > *Learn. Practice. Prepare. Succeed.*
 
-LexaChatbot is a full-stack, production-quality MERN application powered by Google Gemini and a structured MongoDB Question Bank. Designed specifically for computer science students, MCA/BCA graduates, freshers, and experienced frontend/full-stack developers preparing for rigorous technical interviews.
+LexaChatbot is a full-stack, production-quality MERN application powered by Google Gemini and a structured MongoDB Question Bank. Designed specifically for computer science students, MCA/BCA graduates, freshers, and experienced frontend/full-stack developers preparing for rigorous technical interviews
 
 ---
 
